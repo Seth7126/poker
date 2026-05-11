@@ -1,0 +1,18 @@
+// ============================================================
+// 函数名称: sub_4a93a7
+// 虚拟地址: 0x4a93a7
+// WARP GUID: a799f7be-ba67-57eb-8a64-80d04366c78b
+// 源二进制: E:/torrent/BOARDGAMES/Texas Hold'em Poker 3D Deluxe Edition T/Poker3d.exe.bndb
+// ------------------------------------------------------------
+// [交叉引用字符串]: 无
+// [外部 API 调用]: 无
+// [内部子函数调用]: 无
+// [被调用的父级函数]: sub_4a9330
+// ============================================================
+
+int32_t __stdcallsub_4a93a7(int32_t arg1, int32_t arg2, int32_t arg3, int32_t arg4) __pure
+{
+    // 第一条实际指令: int32_t entry_result
+    int32_t entry_result
+    return entry_result
+}

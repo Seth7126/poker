@@ -1,0 +1,21 @@
+// ============================================================
+// 函数名称: sub_43ed4b
+// 虚拟地址: 0x43ed4b
+// WARP GUID: 3f6758c3-f119-53c5-b963-bc056d1f864d
+// 源二进制: E:/torrent/BOARDGAMES/Texas Hold'em Poker 3D Deluxe Edition T/Poker3d.exe.bndb
+// ------------------------------------------------------------
+// [交叉引用字符串]: 无
+// [外部 API 调用]: 无
+// [内部子函数调用]: 无
+// [被调用的父级函数]: sub_43ebb1
+// ============================================================
+
+int32_t __convention("regparm")sub_43ed4b(char* arg1)
+{
+    // 第一条实际指令: bool c
+    bool c
+    *arg1 = adc.b(*arg1, arg1.b, c)
+    char* var_4 = arg1
+    *arg1 += arg1.b
+    jump(*(arg1 * 2))
+}
